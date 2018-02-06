@@ -26,7 +26,7 @@ SECRET_KEY = 'l#v8^ctwvr-7&mynn=i_*%9g1-_0s379^a9j)&r2li983iiu!b'
 DEBUG = True
 
 ##edit
-ALLOWED_HOSTS = [EduardoMacetas.pythonanywhere.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
